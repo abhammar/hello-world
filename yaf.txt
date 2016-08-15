@@ -1,2 +1,2 @@
 This is yet another file
-. I modified the  fisrt line on new-feature-1 branch.
+. I modified the  fisrt line on new-feature-1 branch. Added directly in the repo
