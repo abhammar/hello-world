@@ -1,1 +1,2 @@
 yet another another file.txt
+fixed a security hole on the hotfix branch off of master.
