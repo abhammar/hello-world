@@ -1,1 +1,2 @@
 This is yet another file
+. I modified the  fisrt line on new-feature-1 branch.
