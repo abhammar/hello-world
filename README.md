@@ -1,4 +1,4 @@
-# Web Tier for the Headless 
+# Web Tier 
 
 ## About
 
